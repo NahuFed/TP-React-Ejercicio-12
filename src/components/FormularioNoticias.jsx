@@ -40,7 +40,7 @@ if(!selectCategoria){
     //peticion GET
     try {
       const respuesta = await fetch(
-        `https://newsdata.io/api/1/news?country=${pais}&apikey=pub_24185fcb0d47542298171f751b8c6946a2ab8&category=${categoria} `
+        `https://newsdata.io/api/1/news?country=${pais}&apikey=pub_24185381d5f4ddc39f57cef2b59ef72a9f8f6&category=${categoria} `
       ); //direccion de la api
       const datos = await respuesta.json();     
       setArrayNoticias(datos.results);
