@@ -1,6 +1,5 @@
-# Nombre de la Aplicación
-
-Breve descripción de la aplicación.
+# Noticias filtradas por categoria y pais
+  ejercicio 12 tp react
 
 ## Instalación
 
