@@ -26,7 +26,7 @@ Breve descripción de la aplicación.
 
 ## Implementación
 
-Este proyecto está hecho con React y utiliza Vite como herramienta de desarrollo. Consume una API alojada en [NewsData](https://newsdata.io/api/). La aplicación filtra las noticias por categoría.
+Este proyecto está hecho con React y utiliza Vite como herramienta de desarrollo. Consume una API alojada en [NewsData](https://newsdata.io/api/). La aplicación filtra las noticias por categoría y pais.
 
 ## Demo en Vivo(Netlify)
 
